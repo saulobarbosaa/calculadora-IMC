@@ -3,6 +3,9 @@
 
 Esse projeto consiste em ser uma simples calculadora de IMC (Índice de Massa Corporal)
 
+## 🔗 Antes de tudo, confira o resultado final da calculadora no link abaixo:
+
+calculadoraimc-saulobarbosa.netlify.app
 
 ## O que é IMC? 🤔
 
@@ -31,8 +34,3 @@ Com JavaScript, foi criada a calculadora em si com duas funções simples, onde 
 Logo após o calculo, foi utilizado if e else para que fosse exibido no textarea qual seria a situação de saúde do usuário.
 
 Toda a função de calculo era 'chamada' por meio de um onclick no botão de "Calcular".
-
-## 🔗 Confira o resultado final da calculadora no link abaixo:
-
-calculadoraimc-saulobarbosa.netlify.app
-
