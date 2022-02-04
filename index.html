@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Calculadora IMC</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+
+  <section class="container">
+    
+    <div class="titulo">
+
+      <h1>Calculadora IMC</h1>
+      <p>
+        <p>Seja bem-vindo a calculadora</p>
+      </p>
+
+    </div>
+
+    <div class="tabela">
+
+      <div class="col-1">
+        <p><b>IMC</b></p>
+        <p>Menor do que 18,5</p>
+        <p>Entre 18,5 e 24,9</p>
+        <p>Entre 25 e 29,9</p>
+        <p>Entre 30 e 34,9</p>
+        <p>Entre 35 e 39,9</p>
+        <p>Mais do que 40</p>
+      </div>
+  
+      <div class="col-2">
+        <p><b>Resultado</b></p>
+        <p>Abaixo do peso</p>
+        <p>Peso normal</p>
+        <p>Sobrepeso</p>
+        <p>Obesidade grau 1</p>
+        <p>Obesidade grau 2</p>
+        <p>Obesidade grau 3</p>
+      </div> 
+
+    </div>
+
+    <h2>Calcule o seu IMC</h2>
+
+    <div class="formulario">
+      <form action="" class="form" onsubmit="return false">
+
+        <div class="div-altura"></div>
+
+        <label for="altura" class="label-altura">Altura:</label><br>
+        <input type="text" class="altura" >
+
+        </div>
+
+        <div class="div-peso">
+          
+          <label for="peso">Peso:</label><br>
+          <input type="number" class="peso" >
+
+        </div>
+
+        <input type="submit" value="Calcular" class="submit" onclick="calculaIMC()">
+        
+        <input type="reset" value="Reset" class="reset" onclick="recarregaPagina()">
+
+        
+      </form>
+
+    </div>
+
+    <textarea name="resultado" id="resultado_text" cols="30" rows="10" class="resultado"></textarea>
+    
+  </section>
+
+  <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
