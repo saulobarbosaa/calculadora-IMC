@@ -5,7 +5,7 @@ Esse projeto consiste em ser uma simples calculadora de IMC (Índice de Massa Co
 
 ## 🔗 Antes de tudo, confira o resultado final da calculadora no link abaixo:
 
-calculadoraimc-saulobarbosa.netlify.app
+https://calculadoraimc-saulobarbosa.netlify.app/
 
 ## O que é IMC? 🤔
 
