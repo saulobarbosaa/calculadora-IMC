@@ -1,5 +1,5 @@
 
-# Calculadora de IMC
+# 🧮Calculadora de IMC
 
 Esse projeto consiste em ser uma simples calculadora de IMC (Índice de Massa Corporal)
 
