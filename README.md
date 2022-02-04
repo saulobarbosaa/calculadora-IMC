@@ -32,6 +32,7 @@ Logo após o calculo, foi utilizado if e else para que fosse exibido no textarea
 
 Toda a função de calculo era 'chamada' por meio de um onclick no botão de "Calcular".
 
-##🔗 Confira o resultado final da calculadora no link abaixo:
+## 🔗 Confira o resultado final da calculadora no link abaixo:
 
+calculadoraimc-saulobarbosa.netlify.app
 
