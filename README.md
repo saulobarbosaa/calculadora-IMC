@@ -3,6 +3,8 @@
 
 Esse projeto consiste em ser uma simples calculadora de IMC (Índice de Massa Corporal)
 
+![image](https://user-images.githubusercontent.com/82117471/152607614-9de2c7bd-dcc8-41e2-94c3-5f39459e7587.png)
+
 ## 🔗 Antes de tudo, confira o resultado final da calculadora no link abaixo:
 
 https://calculadoraimc-saulobarbosa.netlify.app/
