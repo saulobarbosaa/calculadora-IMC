@@ -36,3 +36,9 @@ Com JavaScript, foi criada a calculadora em si com duas funções simples, onde 
 Logo após o calculo, foi utilizado if e else para que fosse exibido no textarea qual seria a situação de saúde do usuário.
 
 Toda a função de calculo era 'chamada' por meio de um onclick no botão de "Calcular".
+
+### Observações
+
+A responsividade do site ainda está sendo ajustada, neste caso, o melhor modo de visualizar e usar essa calculadora será por desktop
+
+### Obrigado pela sua atenção!
