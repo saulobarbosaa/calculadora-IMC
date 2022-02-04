@@ -7,18 +7,18 @@ Esse projeto consiste em ser uma simples calculadora de IMC (Índice de Massa Co
 
 https://calculadoraimc-saulobarbosa.netlify.app/
 
-## O que é IMC? 🤔
+### O que é IMC? 🤔
 
 O índice de Massa Corporal consiste basicamente em um calculo que indica se a pessoa está dentro do seu peso ideal de acordo com a sua altura.
 Ele é muito utilizado por nutricionistas e profissionais na área da saúde.
 
-## Como calcular o IMC? 🧮
+### Como calcular o IMC? 🧮
 
 O cálculo é bem simples, basta dividir o seu peso atual pela a sua altura ao quadrado, simplificando em uma fórmula matemática:
 
 Peso ÷ (altura x altura)
 
-## Como saber se estou dentro do meu peso ideal? 💡
+### Como saber se estou dentro do meu peso ideal? 💡
 
 No próprio formulário é colocada uma tabela simples comparando o seu resultado de IMC com as classificações de peso, elas variam entre "abaixo do peso" até "obesidade grau 3"
 
